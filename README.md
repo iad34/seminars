@@ -19,7 +19,8 @@ __Семинар 0.__ Проверочная работа.
 * [Задания](https://github.com/iad34/seminars/blob/master/test0.ipynb)
 
 __Семинар 1.__ NumPy и Pandas.
-* ...
+* [Данные](https://raw.githubusercontent.com/iad34/seminars/master/data_sem1.csv)
+* [Задание на pandas](https://github.com/iad34/seminars/blob/master/pandas_task.ipynb)
 
 
 ## Полезные ссылки
