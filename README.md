@@ -30,4 +30,5 @@ __Семинар 1.__ NumPy и Pandas.
 * [Вводный курс К. В. Воронцова на coursera.org](https://www.coursera.org/learn/introduction-machine-learning)
 * [https://www.dataquest.io](https://www.dataquest.io): сайт с интерактивными заданиями по Python для анализа данных
 * [Pattern Recognition and Machine Learning by C. Bishop](http://www.rmki.kfki.hu/~banmi/elte/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf)
+
 За прохождение курсов на coursera.org не обязательно платить: можно попросить материальную помощь.
