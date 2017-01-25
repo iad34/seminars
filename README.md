@@ -8,6 +8,8 @@
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1sFKaErC0N7YteroaNS8N9JkHZUdWKc3RFv1wv5kGyzw/edit)
 
+[Telegram-канал](https://t.me/iad34)
+
 Адрес для отправки домашних заданий, вопросов по заданиям и по курсу: _hse.minor.dm+{3 или 4}@gmail.com_
 
 ## Домашние задания
