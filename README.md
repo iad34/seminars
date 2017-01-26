@@ -22,7 +22,7 @@ __Семинар 0.__ Проверочная работа.
 
 __Семинар 1.__ NumPy и Pandas.
 * [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/sem1.ipynb)
-* [Прошлогодний ноутбук-туториал про numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
+* [Прошлогодний подробный ноутбук-туториал по numpy](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Sem2_NumPy.ipynb)
 * [Ноутбук с семинаров ФКН (подробно про создание массивов и индексацию)](https://github.com/nadiinchi/HSE_FCS_seminars/blob/master/materials/sem.01.ipynb)
 * [Англоязычный подробный туториал по numpy](http://nbviewer.jupyter.org/github/Atlas7/scipy-tentative-numpy-tutorials/blob/master/tentative-numpy-tutorial.ipynb)
 
