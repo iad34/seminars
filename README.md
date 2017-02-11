@@ -28,6 +28,11 @@ __Семинар 1.__ NumPy и Pandas.
 
 __Семинар 2.__ Pandas и основная задача анализа данных.
 * [Данные](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
+* [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/Sem2.ipynb)
+* [Лекция на Курсере про pandas - 1](https://www.coursera.org/learn/mathematics-and-python/lecture/rcjAW/pandas-data-frame)
+* [Лекция на Курсере про pandas - 2](https://www.coursera.org/learn/mathematics-and-python/lecture/lsXAR/pandas-indieksatsiia-i-sieliektsiia)
+* [Прошлогодний подробный ноутбук-туториал про pandas](https://github.com/nadiinchi/HSE_minor_DataAnalysis_seminars_iad16/blob/master/materials/Seminar3_pandas.ipynb)
+* [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 
 
