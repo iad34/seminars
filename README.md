@@ -8,7 +8,7 @@
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1sFKaErC0N7YteroaNS8N9JkHZUdWKc3RFv1wv5kGyzw/edit)
 
-[Telegram-канал](https://t.me/iad34)
+[Telegram-канал](https://t.me/iad34) и [Telegram-чат](https://t.me/joinchat/AAAAAAuSk3MQuJfh1q4p9Q)
 
 Адрес для отправки домашних заданий, вопросов по заданиям и по курсу: _hse.minor.dm+{3 или 4}@gmail.com_
 
@@ -35,6 +35,7 @@ __Семинар 2.__ Pandas и основная задача анализа д�
 * [Официальная документация pandas - подробнейшие туториалы на английском](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 
 __Семинар 3.__ Метод ближайших соседей
+* [Конспект семинара](https://github.com/iad34/seminars/blob/master/materials/sem3_0.ipynb)
 
 __Семинар 4.__ Линейная регрессия и методы оптимизации
 * [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/sem3.ipynb)
