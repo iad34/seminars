@@ -40,6 +40,8 @@ __Семинар 3.__ Метод ближайших соседей
 __Семинар 4.__ Линейная регрессия и методы оптимизации
 * [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/sem3.ipynb)
 
+__Семинар 5.__ Линейная регрессия, регуляризация и кросс-валидация
+* [Слайды](https://github.com/iad34/seminars/blob/master/materials/report.pdf)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
