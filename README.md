@@ -13,7 +13,8 @@
 Адрес для отправки домашних заданий, вопросов по заданиям и по курсу: _hse.minor.dm+{3 или 4}@gmail.com_
 
 ## Домашние задания
-* [Домашнее задание 1](https://github.com/iad34/seminars/blob/master/materials/HW1.ipynb) (дедлайн: 17 марта в 23:59)
+* [Домашнее задание 1](https://github.com/iad34/seminars/blob/master/materials/HW1.ipynb) (дедлайн: 17 марта в 23:59). 
+Отправлять на почту hse.minor.dm@gmail.com с темой [ИАД-<номер группы>, HW1] Фамилия Имя.
 
 ## План семинаров (первый модуль):
 
