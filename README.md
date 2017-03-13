@@ -10,7 +10,7 @@
 
 [Telegram-канал](https://t.me/iad34) и [Telegram-чат](https://t.me/joinchat/AAAAAAuSk3MQuJfh1q4p9Q)
 
-Адрес для отправки домашних заданий, вопросов по заданиям и по курсу: _hse.minor.dm+{3 или 4}@gmail.com_
+Адрес курса: _hse.minor.dm+{3 или 4}@gmail.com_
 
 ## Домашние задания
 * [Домашнее задание 1](https://github.com/iad34/seminars/blob/master/materials/HW1.ipynb) (дедлайн: 17 марта в 23:59). 
