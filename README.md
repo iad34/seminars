@@ -44,6 +44,14 @@ __Семинар 4.__ Линейная регрессия и методы опт
 __Семинар 5.__ Линейная регрессия, регуляризация и кросс-валидация
 * [Слайды](https://github.com/iad34/seminars/blob/master/materials/report.pdf)
 
+__Семинар 6.__ Логистическая регрессия
+* TODO
+
+__Семинар 7.__
+* [Долги с прошлого семинара](https://github.com/iad34/seminars/blob/master/materials/Sem6_real_data.ipynb)
+* [Слайды про метрики качества классификации](https://github.com/iad34/seminars/blob/master/materials/sem7.pdf)
+* [Код со слайдов](https://github.com/iad34/seminars/blob/master/materials/sem7.ipynb)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
