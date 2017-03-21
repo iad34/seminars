@@ -52,6 +52,9 @@ __Семинар 7.__
 * [Слайды про метрики качества классификации](https://github.com/iad34/seminars/blob/master/materials/sem7.pdf)
 * [Код со слайдов](https://github.com/iad34/seminars/blob/master/materials/sem7.ipynb)
 
+__Семинар 8.__
+* [Стартовый ноутбук](https://github.com/iad34/seminars/blob/master/materials/Starter_sem8.ipynb)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
