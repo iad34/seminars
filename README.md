@@ -54,6 +54,7 @@ __Семинар 7.__
 
 __Семинар 8.__
 * [Стартовый ноутбук](https://github.com/iad34/seminars/blob/master/materials/Starter_sem8.ipynb)
+* [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/Sem8.ipynb)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
