@@ -57,7 +57,8 @@ __Семинар 8.__ Решающие деревья
 * [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/Sem8.ipynb)
 
 __Семинар 9.__ Работа с текстами. Наивный байесовский классификатор. Выдача второго домашнего задания.
-* TODO
+* [Слайды](https://github.com/iad34/seminars/blob/master/materials/sem9.pdf)
+* [Данные](https://github.com/iad34/seminars/blob/master/materials/9sem_data.zip)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
