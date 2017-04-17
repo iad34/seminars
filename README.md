@@ -15,7 +15,7 @@
 ## Домашние задания
 * [Домашнее задание 1](https://github.com/iad34/seminars/blob/master/materials/HW1.ipynb) (дедлайн: 17 марта в 23:59). 
 Отправлять на почту hse.minor.dm@gmail.com с темой [ИАД-<номер группы>, HW1] Фамилия Имя.
-* [Домашнее задание 2](https://github.com/iad34/seminars/blob/master/materials/hw2.ipynb) (дедлайн: 1 мая 9:00 утра, рекомендуем отправить вечером 30 апреля :) Отправлять на почту hse.minor.dm+X@gmail.com, X = 3 или 4 (ИАД 3 или ИАД4) с темой [HW2, ИАД-X] Фамилия Имя.
+* [Домашнее задание 2](https://github.com/iad34/seminars/blob/master/materials/hw2.ipynb) (дедлайн: 1 мая 9:00 утра, рекомендуем отправить вечером 30 апреля :) Отправлять на почту hse.minor.dm+X@gmail.com, X = 3 или 4 (ИАД 3 или ИАД4), с темой [HW2, ИАД-X] Фамилия Имя.
 
 ## План семинаров (первый модуль):
 
