@@ -62,6 +62,10 @@ __Семинар 9.__ Работа с текстами. Наивный байе�
 * [Данные](https://github.com/iad34/seminars/blob/master/materials/9sem_data.zip)
 * [Код для считывания текстов](https://pastebin.com/JXrDiDGL)
 
+__Семинар 10.__ Random Forest
+* [Датасет1](http://www.machinelearning.ru/wiki/images/3/32/Titanic.zip)
+* [Датасет2](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
