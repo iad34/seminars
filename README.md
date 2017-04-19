@@ -64,6 +64,7 @@ __Семинар 9.__ Работа с текстами. Наивный байе�
 
 __Семинар 10.__ Random Forest
 * [Датасет1](http://www.machinelearning.ru/wiki/images/3/32/Titanic.zip)
+* [Ноутбук](https://github.com/iad34/seminars/blob/master/materials/rf.ipynb)
 * [Датасет2](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
 
 ## Полезные ссылки
