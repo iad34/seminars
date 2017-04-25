@@ -67,6 +67,11 @@ __Семинар 10.__ Random Forest
 * [Ноутбук](https://github.com/iad34/seminars/blob/master/materials/rf.ipynb)
 * [Датасет2](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
 
+__Семинар 11.__
+* [DataFrame1 - Bikes Rent](https://raw.githubusercontent.com/iad34/seminars/master/materials/bikes_rent.csv)
+* [DataFrame2 - Titanik](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
+* [DataFrame3 - Cars](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
