@@ -67,10 +67,15 @@ __Семинар 10.__ Random Forest
 * [Ноутбук](https://github.com/iad34/seminars/blob/master/materials/rf.ipynb)
 * [Датасет2](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
 
-__Семинар 11.__
+__Семинар 11.__ Методы генерации признаков
 * [DataFrame1 - Bikes Rent](https://raw.githubusercontent.com/iad34/seminars/master/materials/bikes_rent.csv)
 * [DataFrame2 - Titanik](https://raw.githubusercontent.com/iad34/seminars/master/materials/data_sem1.csv)
 * [DataFrame3 - Cars](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)
+* [Ноутбук](https://github.com/iad34/seminars/blob/master/materials/sem11.ipynb)
+
+__Семинар 12.__ Методы понижения размерности, отбор признаков, работа с признаками: практический кейс
+* [Стартовый ноутубук](https://github.com/iad34/seminars/blob/master/materials/StarterScript_sem12.ipynb)
+* ["Большой" файл с данными](https://goo.gl/sneJdp)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
