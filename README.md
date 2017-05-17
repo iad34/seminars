@@ -76,6 +76,7 @@ __Семинар 11.__ Методы генерации признаков
 __Семинар 12.__ Методы понижения размерности, отбор признаков, работа с признаками: практический кейс
 * [Стартовый ноутубук](https://github.com/iad34/seminars/blob/master/materials/StarterScript_sem12.ipynb)
 * ["Большой" файл с данными](https://goo.gl/sneJdp)
+* [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/Script_sem12.ipynb)
 
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
