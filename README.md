@@ -78,6 +78,11 @@ __Семинар 12.__ Методы понижения размерности, �
 * ["Большой" файл с данными](https://goo.gl/sneJdp)
 * [Ноутбук с семинара](https://github.com/iad34/seminars/blob/master/materials/Script_sem12.ipynb)
 
+__Семинар 13.__ Кластеризация
+* [Города](https://raw.githubusercontent.com/iad34/seminars/master/materials/coord.csv)
+* [Яблоко](https://raw.githubusercontent.com/iad34/seminars/master/materials/apple.png)
+* [Пейзаж](https://raw.githubusercontent.com/iad34/seminars/master/materials/nature.jpg)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
