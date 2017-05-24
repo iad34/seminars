@@ -83,7 +83,7 @@ __Семинар 13.__ Кластеризация
 * [Яблоко](https://raw.githubusercontent.com/iad34/seminars/master/materials/apple.png)
 * [Пейзаж](https://raw.githubusercontent.com/iad34/seminars/master/materials/nature.jpg)
 
-__Семинар 14.___ Рекомендательные системы
+__Семинар 14.__ Рекомендательные системы
 * [Слайды лекции](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/lecture12-RS.pdf)
 * [Инфо о фильмах](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/movies.dat)
 * [Обучение](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/train.csv)
