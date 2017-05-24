@@ -83,6 +83,12 @@ __Семинар 13.__ Кластеризация
 * [Яблоко](https://raw.githubusercontent.com/iad34/seminars/master/materials/apple.png)
 * [Пейзаж](https://raw.githubusercontent.com/iad34/seminars/master/materials/nature.jpg)
 
+__Семинар 14.___ Рекомендательные системы
+* [Слайды лекции](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/lecture12-RS.pdf)
+* [Инфо о фильмах](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/movies.dat)
+* [Обучение](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/train.csv)
+* [Контроль](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/test.csv)
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
