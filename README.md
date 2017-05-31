@@ -89,6 +89,11 @@ __Семинар 14.__ Рекомендательные системы
 * [Обучение](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/train.csv)
 * [Контроль](https://raw.githubusercontent.com/iad34/seminars/master/materials/recsys/test.csv)
 
+__Семинар 15.__ Блендинг и стекинг.
+* [Датасет](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
+* [Kaggle Ensembling Guide](mlwave.com/kaggle-ensembling-guide/)
+* [heamy](https://github.com/rushter/heamy/) 
+
 ## Полезные ссылки
 * [Специализация по анализу данных на coursera.org](https://ru.coursera.org/specializations/machine-learning-data-analysis)
 * [James, Witten, Hastie, Tibshirani — An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf)
