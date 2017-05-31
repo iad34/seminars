@@ -91,7 +91,7 @@ __Семинар 14.__ Рекомендательные системы
 
 __Семинар 15.__ Блендинг и стекинг.
 * [Датасет](https://archive.ics.uci.edu/ml/datasets/Forest+Fires)
-* [Kaggle Ensembling Guide](mlwave.com/kaggle-ensembling-guide/)
+* [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 * [heamy](https://github.com/rushter/heamy/) 
 
 ## Полезные ссылки
